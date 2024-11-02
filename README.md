@@ -57,7 +57,7 @@ x4: (0.28781547955764797-1.4160930801719078j)
 ```
 
 
-### Commandline
+### Command line
 python -m quarticequation
 
 - *Help*: python -m quarticequation  -h
