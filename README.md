@@ -5,7 +5,7 @@ A Python module for the exact solutions of a quartic equation: a x^4 + b x^3 + c
 ## Usage
 
 ### Calculate quartic solution
-The solutions are three symexpress3 objects: x1Optimized, x2Optimized, x3Optimized, x4Optimized
+The solutions are four symexpress3 objects: x1Optimized, x2Optimized, x3Optimized, x4Optimized
 ```py
 >>> import quarticequation
 >>> objQuartic = quarticequation.QuarticEquation()
