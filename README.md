@@ -63,3 +63,5 @@ python -m quarticequation
 - *Help*: python -m quarticequation  -h
 - *Quartic solution*: python -m quarticequation 1 2 3 4 5
 
+### Graphical user interface
+https://github.com/SWVandenEnden/websym3

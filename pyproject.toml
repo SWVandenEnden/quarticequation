@@ -34,3 +34,6 @@ classifiers = [
 ]
 license = {text = "GNU General Public License v3 or later (GPLv3+)"}
 keywords = ["math", "symbolic", "quartic equation"]
+
+[project.urls]
+"Source Code" = "https://github.com/SWVandenEnden/quarticequation"
