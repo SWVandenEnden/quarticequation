@@ -15,7 +15,7 @@ The solutions are four symexpress3 objects: x1Optimized, x2Optimized, x3Optimize
 >>> objQuartic.d = "4"
 >>> objQuartic.e = "5"
 >>> objQuartic.calcSolutions()
->>> print( f"x1: {objQuartic.x1Optimized}\nx2: {objQuartic.x2Optimized}\nx3: {objQuartic.x3Optimized}\nx3: {objQuartic.x4Optimized}\n" )
+>>> print( f"x1: {objQuartic.x1Optimized}\nx2: {objQuartic.x2Optimized}\nx3: {objQuartic.x3Optimized}\nx4: {objQuartic.x4Optimized}\n" )
 x1: (-1/2) + ((-1) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ) * (-1))^^(1/2) * (-1/2) + (1/2) * ((-2) + ((-1) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ) * (-1))^^(-1/2) * 4 +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) * (-1) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ))^^(1/2)
 x2: (-1/2) + ((-1) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ) * (-1))^^(1/2) * (-1/2) + ((-2) + ((-1) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ) * (-1))^^(-1/2) * 4 +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) * (-1) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ))^^(1/2) * (-1/2)
 x3: (-1/2) + (1/2) * ((-1) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ) * (-1))^^(1/2) + (1/2) * ((-2) + (-4) * ((-1) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ) * (-1))^^(-1/2) +  cos( (1/3) *  atan( (1/2) ) ) * 15^^(1/2) * (-1) + 5^^(1/2) *  sin( (1/3) *  atan( (1/2) ) ))^^(1/2)
@@ -33,7 +33,7 @@ The parameters may be real numbers or symexpress3 strings
 >>> objQuartic.d = "-1028"
 >>> objQuartic.e = "2730 / 2"
 >>> objQuartic.calcSolutions()
->>> print( f"x1: {objQuartic.x1Optimized}\nx2: {objQuartic.x2Optimized}\nx3: {objQuartic.x3Optimized}\nx3: {objQuartic.x4Optimized}\n" )
+>>> print( f"x1: {objQuartic.x1Optimized}\nx2: {objQuartic.x2Optimized}\nx3: {objQuartic.x3Optimized}\nx4: {objQuartic.x4Optimized}\n" )
 x1: 5
 x2: 3
 x3: 13
