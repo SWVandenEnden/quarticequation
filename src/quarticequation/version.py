@@ -4,7 +4,7 @@
 # https://stackoverflow.com/questions/1523427/what-is-the-common-header-format-of-python-files
 # https://epydoc.sourceforge.net/manual-fields.html#module-metadata-variables
 
-__version__     = "0.0.2"
+__version__     = "0.0.3"
 
 __author__      = "Gien van den Enden"
 __copyright__   = "Copyright 2024, Gien van den Enden"
