@@ -13,7 +13,7 @@ path = "src/quarticequation/version.py"
 name = "quarticequation"
 dynamic = ['version']
 dependencies = [
-  'symexpress3 >= 0.0.10'
+  'symexpress3 >= 0.0.12'
 ]
 authors = [
   { name ="Gien van den Enden"}, 
