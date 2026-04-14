@@ -296,7 +296,7 @@ class QuarticEquation():
       self._output.writeLine( str( fourthPowerExp ) )
       self._output.writeLine( '' )
 
-      self._output.writeLine( 'Based on <a href="https://en.wikipedia.org/wiki/Quartic_equation">https://en.wikipedia.org/wiki/Quartic_equation</a>' )
+      self._output.writeLine( 'Based on <a target="_blank" href="https://en.wikipedia.org/wiki/Quartic_equation">https://en.wikipedia.org/wiki/Quartic_equation</a>' )
       self._output.writeLine( '' )
 
 
